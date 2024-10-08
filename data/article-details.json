@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "slug": "introduction-to-operating-systems",
+    "title": "Introduction to Operating Systems",
+    "excerpt": "Operating system is the software which manages hardware and acts as a medium of communication between the hardware and the user.",
+    "publishDate": "Oct 8 2024"
+  },
+  {
+    "id": 2,
+    "slug": "types-of-operating-systems",
+    "title": "Types of Operating Systems",
+    "excerpt": "Various operating systems exist in the world. Some popular one are Windows, MacOS, Linux, AndroidOS, iOS, etc.",
+    "publishDate": "Oct 8 2024"
+  }
+]
