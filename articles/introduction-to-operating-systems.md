@@ -1,8 +1,11 @@
 ---
 title: Introduction to Operating Systems
-slug: how-to-learn-go-when-you-already-know-typeScript-very-well
-author: Jit Mitra
-date: 11/08/2024
+excerpt: how-to-learn-go-when-you-already-know-typeScript-very-well
+publishDate: "Oct 8 2024"
+tags:
+  - OS
+  - 
+seo:
 ---
 
 ## Introduction
